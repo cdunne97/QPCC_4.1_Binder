@@ -1,0 +1,28 @@
+[
+    {
+        "question": "What is the speedup of Grover's algorithm in comparison to a classical algorithm?",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "Cubic",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "Quadratic",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Exponential",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "No speedup",
+                "correct": false,
+                "feedback": "Incorrect."
+            }
+        ]
+    }
+]

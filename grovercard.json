@@ -1,0 +1,13 @@
+[
+    {
+        "front": "What is the speedup of Grover's algorithm in comparison to a classical algorithm?",
+        "back": "Quadratic"
+        
+    },
+    
+    {
+        "front": "What is the speedup of Shor's algorithm in comparison the best known classical algorithm?",
+        "back": "Exponential"
+        
+    }
+]
