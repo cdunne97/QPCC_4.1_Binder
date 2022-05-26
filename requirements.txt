@@ -2,3 +2,4 @@ jupyterquiz==1.8
 jupytercards==1.9.0
 IPython==7.33.0
 gspread==5.3.2
+qiskit==0.36.2
